@@ -1,9 +1,10 @@
-# 🛒 Amazon Clone  
+# 🛒 Flipkart Clone  
 
-![Flipkart Clone Banner](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/banner.png)
+![Flipkart Clone Banner](https://raw.githubusercontent.com/ronik-bajakke/FlipkartClone/main/banner.png)
 
 A visually appealing **Flipkart homepage clone** built using **HTML and CSS**.  
 This project closely replicates the design and layout of the Flipkart India website — showcasing front-end skills using only static web technologies.
+
 ---
 
 ## 🌐 Live Demo  
